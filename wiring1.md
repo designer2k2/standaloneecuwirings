@@ -1,8 +1,9 @@
-vr6 to black
+# vr6 to black
 
 http://www.ecumaster.nl/20695-thickbox_default/ecumaster-emu-black.jpg
 
 Black:
+
 |pin|function|function|pin|
 |--|--|--|--|
 |1|ignition coil #5|not used|-|
@@ -46,6 +47,7 @@ Black:
 |39|Sensor Ground|Masse|?|
 
 Grey:
+
 |pin|function|function|pin|
 |--|--|--|--|
 |1|Ignition coil #6|?|?|
