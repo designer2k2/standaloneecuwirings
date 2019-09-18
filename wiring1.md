@@ -60,7 +60,7 @@ Grey:
 |10|H-Bridge #1 Winding B|?|?|
 |11|H-Bridge #2 Winding B|?|?|
 |12|AUX 5|Drosselklappe Leerlauf PWM|27|
-|13|AUX 2 / Injector #8|?|?|
+|13|AUX 2 / Injector #8|Motorsteuerungsrelais|9|
 |14|Injector #5|Einspritzventil #5|3|
 |15|Injector #2|Einspritzventil #2|25|
 |16|Ignition Coil #2|Zündblock #3|60|
@@ -68,7 +68,7 @@ Grey:
 |18|Ignition +12V|Zündplus|Klemme 15|
 |19|WBO Heater|LSU 4.2|4|
 |20|AUX 4 / Tacho|Drehzahl Ausgang|22|
-|21|AUX 1 / Injector #7|Fuel Pump|External|
+|21|AUX 1 / Injector #7|Fuel Pump|6|
 |22|Injector #6|Einspritzventil #6|4|
 |23|Injector #3|Einspritzventil #3|26|
 |24|Power Ground|Masse|Klemme 31/DK Motor Masse 53|
