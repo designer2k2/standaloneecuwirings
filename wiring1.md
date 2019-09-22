@@ -50,9 +50,9 @@ Grey:
 |--|--|--|--|
 |1|Ignition coil #6|not used|-|
 |2|H-Bridge #1 Winding A|?|?|
-|3|H-Bridge #2 Winding A|?|?|
+|3|H-Bridge #2 Winding A|Shiftlight|External|
 |4|AUX 6|Check Engine Light|External|
-|5|AUX 3|Shiftlight|External|
+|5|AUX 3|N80 Aktivkohle Magentventil Masse|31|
 |6|Injector #4|Einspritzventil #4|2|
 |7|Injector #1|Einspritzventil #1|24|
 |8|Ignition Coil #1|Zündblock #2|8|
