@@ -60,7 +60,7 @@ Grey:
 |10|H-Bridge #1 Winding B|?|?|
 |11|H-Bridge #2 Winding B|?|?|
 |12|AUX 5|Drosselklappe Leerlauf PWM|27|
-|13|AUX 2 / Injector #8|Motorsteuerungsrelais|9|
+|13|AUX 2 / Injector #8|Motorsteuerungsrelais???|9???|
 |14|Injector #5|Einspritzventil #5|3|
 |15|Injector #2|Einspritzventil #2|25|
 |16|Ignition Coil #2|Zündblock #3|60|
