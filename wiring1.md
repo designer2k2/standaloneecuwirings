@@ -37,7 +37,7 @@ Black:
 |31|Analog in #1|Leerlaufsteller in DK|62|
 |32|IAT In|Saugrohrtemperatur|36|
 |33|WBO VGND|LSU 4.2|5|
-|34|+5V Supply|Drosselklappe 5V|41|
+|34|+5V Supply|Drosselklappe 5V / G40 Nockenwellenhallgeber|41|
 |35|Analog in #5|?|?|
 |36|Switch #3 In|Kupplungspedal|External|
 |37|Analog in #6|Tankgeber|Extern (1/2!)|
