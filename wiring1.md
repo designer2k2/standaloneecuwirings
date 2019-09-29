@@ -9,14 +9,14 @@ Black:
 |3|Knock Sensor in #1|Klopfsensor|34|
 |4|Analog in #2|Öldruck|Extern|
 |5|CLT In|Kühlmitteltemperatur|14|
-|6|WBO Vs|LSU 4.2|1|
+|6|WBO Vs|LSU 4.2|LSU 1|
 |7|Camsync in #2|?|?|
 |8|Primary trigger|G28 Geber Motordrehzahl|67|
 |9|Flex fuel in|not used|-|
 |10|Switch #1 in|Map Switch|External|
 |11|RS232 TXD|?|?|
 |12|CAN H|?|?|
-|13|Constant +12V|Dauerplus|Klemme 30|
+|13|Constant +12V|Dauerplus|54 (Klemme 30)|
 |14|Ignition coil #4|not used|-|
 |15|EGT in #2|EGT2|?|
 |16|Knock Sensor in #2|Klopfsensor|57|
@@ -30,8 +30,8 @@ Black:
 |24|RS232 RXD|?|?|
 |25|CAN L|?|?|
 |26|+5V Supply|?|?|
-|27|Power Ground|Masse|Klemme 31|
-|28|ECU Ground|Masse|Klemme 31|
+|27|Power Ground|Masse|1 (Klemme 31)|
+|28|ECU Ground|Masse|1 (Klemme 31)|
 |29|Sensor Ground|Masse|68/10|
 |30|Analog in #4|Öltemperatur|Extern|
 |31|Analog in #1|Leerlaufsteller in DK|62|
@@ -64,14 +64,14 @@ Grey:
 |14|Injector #5|Einspritzventil #5|3|
 |15|Injector #2|Einspritzventil #2|25|
 |16|Ignition Coil #2|Zündblock #3|60|
-|17|Power Ground|Masse|Klemme 31|
-|18|Ignition +12V|Zündplus|Klemme 15|
+|17|Power Ground|Masse|1 (Klemme 31)|
+|18|Ignition +12V|Zündplus|23 (Klemme 15)|
 |19|WBO Heater|LSU 4.2|4|
 |20|AUX 4 / Tacho|Drehzahl Ausgang|22|
 |21|AUX 1 / Injector #7|Fuel Pump|6|
 |22|Injector #6|Einspritzventil #6|4|
 |23|Injector #3|Einspritzventil #3|26|
-|24|Power Ground|Masse|Klemme 31/DK Motor Masse 53|
+|24|Power Ground|Masse|1 (Klemme 31/DK Motor Masse 53)|
 
 Outputs:
 Speedometer
