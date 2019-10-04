@@ -64,7 +64,7 @@ Grey:
 |14|Injector #5|Einspritzventil #5|3|
 |15|Injector #2|Einspritzventil #2|25|
 |16|Ignition Coil #2|Zündblock #3|60|
-|17|Power Ground|Masse|1 (Klemme 31)|
+|17|**Power Ground**|Masse|1 (Klemme 31)|
 |18|**Ignition +12V**|Zündplus|23 (Klemme 15)|
 |19|WBO Heater|LSU 4.2|LSU 4|
 |20|AUX 4 / Tacho|Drehzahl Ausgang|22|
