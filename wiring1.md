@@ -32,7 +32,7 @@ Black:
 |26|+5V Supply|?|?|
 |27|**Power Ground**|Masse|1 (Klemme 31)|
 |28|**ECU Ground**|Masse|1 (Klemme 31)|
-|29|Sensor Ground|Masse|68/10|
+|29|Sensor Ground|Masse|68/56|
 |30|Analog in #4|Öltemperatur|Extern|
 |31|Analog in #1|Leerlaufsteller in DK|62|
 |32|IAT In|Saugrohrtemperatur|36|
@@ -71,7 +71,7 @@ Grey:
 |21|AUX 1 / Injector #7|Fuel Pump|6|
 |22|Injector #6|Einspritzventil #6|4|
 |23|Injector #3|Einspritzventil #3|26|
-|24|**Power Ground**|Masse|1 (Klemme 31/DK Motor Masse 53)|
+|24|**Power Ground**|Masse|1/53  (Klemme 31/DK Motor Masse 53)|
 
 Outputs:
 Speedometer
