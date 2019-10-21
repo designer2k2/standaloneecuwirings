@@ -42,7 +42,7 @@ Black:
 |36|Switch #3 In|Kupplungspedal|External|
 |37|Analog in #6|Tankgeber|Extern (1/2!)|
 |38|Sensor Ground|Masse|33|
-|39|Sensor Ground|Masse|10|
+|39|Sensor Ground|?|?|
 
 Grey:
 
