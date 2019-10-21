@@ -71,7 +71,7 @@ Grey:
 |21|AUX 1 / Injector #7|Fuel Pump|6|
 |22|Injector #6|Einspritzventil #6|4|
 |23|Injector #3|Einspritzventil #3|26|
-|24|**Power Ground**|Masse|1/53  (Klemme 31)|
+|24|**Power Ground**|Masse|1 (Klemme 31)|
 
 Outputs:
 Speedometer
