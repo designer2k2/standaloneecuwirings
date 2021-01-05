@@ -14,8 +14,8 @@ Black:
 |8|Primary trigger|G28 Geber Motordrehzahl|67|
 |9|Flex fuel in|not used|-|
 |10|Switch #1 in|?|?|
-|11|RS232 TXD|?|?|
-|12|CAN H|?|?|
+|11|RS232 TXD|EDL-1|External|
+|12|CAN H|CAN H|External|
 |13|**Constant +12V**|Dauerplus|54 (Klemme 30)|
 |14|Ignition coil #4|not used|-|
 |15|EGT in #2|EGT2|?|
@@ -26,10 +26,10 @@ Black:
 |20|VSS in|Geschwindigkeitssignal|65|
 |21|Camsync in #1|G40 Nockenwellenhallgeber|44|
 |22|WBO Rcal|LSU 4.2|LSU 2|
-|23|Switch #2 In|Bremspedal|External|
+|23|Switch #2 In|WAES Enable|External|
 |24|RS232 RXD|?|?|
-|25|CAN L|?|?|
-|26|+5V Supply|?|?|
+|25|CAN L|CAN L|External|
+|26|+5V Supply|?|External|
 |27|**Power Ground**|Masse|1 (Klemme 31)|
 |28|**ECU Ground**|Masse|1 (Klemme 31)|
 |29|Sensor Ground|Masse|68/56|
