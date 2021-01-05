@@ -34,7 +34,7 @@ Black:
 |28|**ECU Ground**|Masse|1 (Klemme 31)|
 |29|Sensor Ground|Masse|68/56|
 |30|Analog in #4|Öltemperatur|Extern|
-|31|Analog in #1|Leerlaufsteller in DK|62|
+|31|Analog in #1|?|?|
 |32|IAT In|Saugrohrtemperatur|36|
 |33|WBO VGND|LSU 4.2|LSU 5|
 |34|+5V Supply|Drosselklappe 5V / G40 Nockenwellenhallgeber|41|
@@ -60,7 +60,7 @@ Grey:
 |10|H-Bridge #1 Winding B|?|?|
 |11|H-Bridge #2 Winding B|?|?|
 |12|AUX 5|Drosselklappe Leerlauf PWM|53|
-|13|AUX 2 / Injector #8|Motorsteuerungsrelais???|9???|
+|13|AUX 2 / Injector #8|?|?|
 |14|Injector #5|Einspritzventil #5|3|
 |15|Injector #2|Einspritzventil #2|25|
 |16|Ignition Coil #2|Zündblock #3|60|
