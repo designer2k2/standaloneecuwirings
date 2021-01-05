@@ -13,7 +13,7 @@ Black:
 |7|Camsync in #2|?|?|
 |8|Primary trigger|G28 Geber Motordrehzahl|67|
 |9|Flex fuel in|not used|-|
-|10|Switch #1 in|Map Switch|External|
+|10|Switch #1 in|?|?|
 |11|RS232 TXD|?|?|
 |12|CAN H|?|?|
 |13|**Constant +12V**|Dauerplus|54 (Klemme 30)|
