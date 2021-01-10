@@ -9,7 +9,7 @@ Black:
 |3|Knock Sensor in #1|Klopfsensor|34|
 |4|Analog in #2|Öldruck|Extern|
 |5|CLT In|Kühlmitteltemperatur|14|
-|6|WBO Vs|LSU 4.2|LSU 1|
+|6|WBO Vs|LSU 4.9|LSU 1|
 |7|Camsync in #2|?|?|
 |8|Primary trigger|G28 Geber Motordrehzahl|67|
 |9|Flex fuel in|not used|-|
@@ -22,10 +22,10 @@ Black:
 |16|Knock Sensor in #2|Klopfsensor|57|
 |17|Analog in #3|Benzindruck|Extern|
 |18|TPS in|Drosselklappen Potentiometer|40|
-|19|WBO Ip|LSU 4.2|LSU 6|
+|19|WBO Ip|LSU 4.9|LSU 6|
 |20|VSS in|Geschwindigkeitssignal|65|
 |21|Camsync in #1|G40 Nockenwellenhallgeber|44|
-|22|WBO Rcal|LSU 4.2|LSU 2|
+|22|WBO Rcal|LSU 4.9|LSU 2|
 |23|Switch #2 In|WAES Enable|External|
 |24|RS232 RXD|?|?|
 |25|CAN L|CAN L|External|
@@ -36,7 +36,7 @@ Black:
 |30|Analog in #4|Öltemperatur|Extern|
 |31|Analog in #1|?|?|
 |32|IAT In|Saugrohrtemperatur|36|
-|33|WBO VGND|LSU 4.2|LSU 5|
+|33|WBO VGND|LSU 4.9|LSU 5|
 |34|+5V Supply|Drosselklappe 5V / G40 Nockenwellenhallgeber|41|
 |35|Analog in #5|?|?|
 |36|Switch #3 In|Kupplungspedal|External|
@@ -66,7 +66,7 @@ Grey:
 |16|Ignition Coil #2|Zündblock #3|60|
 |17|**Power Ground**|Masse|1 (Klemme 31)|
 |18|**Ignition +12V**|Zündplus|23 (Klemme 15//DK Motor Plus 27)|
-|19|WBO Heater|LSU 4.2|LSU 4|
+|19|WBO Heater|LSU 4.9|LSU 4|
 |20|AUX 4 / Tacho|Drehzahl Ausgang|22|
 |21|AUX 1 / Injector #7|Fuel Pump|6|
 |22|Injector #6|Einspritzventil #6|4|
